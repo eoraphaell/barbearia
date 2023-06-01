@@ -1,0 +1,33 @@
+
+h1{
+    background-color: rgb(219, 204, 185);
+    color: white;
+     text-align: center;
+      
+} 
+ .LISTA {
+    background-color: rgb(131, 125, 117);
+    color:white;
+    text-align: center;
+    display: inline-block;
+    margin-right: 25%;
+    vertical-align: middle;
+ }
+
+ .imagen{
+    margin:0 auto;
+    display: block;
+ }
+ body{
+    background-color: rgb(131, 125, 117);
+ }
+ p,h3 {
+text-align: center
+;
+ }
+ .img2{
+    width: 30%;
+    margin: 0 auto;
+    display: inline-block;
+    
+ }
